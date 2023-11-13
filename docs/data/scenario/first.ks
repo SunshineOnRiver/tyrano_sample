@@ -37,15 +37,16 @@
 
 *go1
 [cm]
+[bg storage=jikken.jpg time=2]
 白衣を忘れたことに気付いた[l][r]
 これだと出席が認められない…[l][r]
 【留年】
 [cm]
-[s]
 [jump target=*start]
 
 *go2
 [cm]
+[bg storage=jikken.jpg time=2]
 今日の実験は中和滴定だ[l][r]
 コニカルビーカーに水酸化ナトリウム水溶液が入っている[l][r]
 [link target=*Ryusan] →ビュレットに硫酸を入れる [endlink][r]
@@ -60,6 +61,7 @@
 
 *ryusan2
 [cm]
+[bg storage=byouin.png time=2]
 目が覚めると病院のベッドの上にいた[l][r]
 全治１年の大やけどを負ったようだ[l][r]
 【留年】
@@ -68,11 +70,13 @@
 
 *kamangan
 [cm]
+[bg storage=jikken.jpg time=2]
 実験成功！[l][r]
 [jump target=*report]
 
 *tansan
 [cm]
+[bg storage=jikken.jpg time=2]
 間違った操作をしてしまった[l][r]
 先生に今回は予習不十分で出席が認められないといわれた[l][r]
 【留年】
@@ -81,6 +85,7 @@
 
 *report
 [cm]
+[bg storage=house.png time=2]
 今は提出日前日の２４時だ…[l][r]
 実験レポートはまだ終わっていない[l][r]
 [link target=*neru] →寝る [endlink][r]
@@ -89,6 +94,7 @@
 
 *neru
 [cm]
+[bg storage=asa.png time=2]
 目を覚ますと提出時間を過ぎていた[l][r]
 【留年】
 [cm]
@@ -96,6 +102,7 @@
 
 *tetsuya
 [cm]
+[bg storage=asa.png time=2]
 レポートの提出に間に合った[l][r]
 留年回避！[l][r]
 これからも実験は続く...[l][r]
